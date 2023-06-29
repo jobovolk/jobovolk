@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jobovolk
-- 👀 I’m interested in data science, databases, data visualization, alternative energy, smart grids, and levelling up
-- 🌱 I’m currently learning Python, PostgreSQL, and front-end stuff
+- 👀 I’m interested in data science, databases and pipelines, data visualization, and leveling up
+- 🌱 I’m currently learning Metabase, JavaScript and NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... through github is good for now :)
 
